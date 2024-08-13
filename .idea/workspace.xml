@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7d557b8-85a9-4bf5-8c8b-8a9743cb7da3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex-10082024/Lab0006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex-10082024/Lab007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex-10082024/Lab008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex-10082024/lab 005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex-10082024/lab_0003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex-10082024/labno004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08082024/Lab001.py" afterDir="false" />
+    <list default="true" id="a7d557b8-85a9-4bf5-8c8b-8a9743cb7da3" name="Changes" comment="all file are add 10 aug 2024">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,19 +45,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Lab0006.executor": "Run",
-    "Python.Lab001.executor": "Run",
-    "Python.Lab007.executor": "Run",
-    "Python.Lab008.executor": "Run",
-    "Python.lab 005.executor": "Run",
-    "Python.lab_0003.executor": "Run",
-    "Python.labno004.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Lab0006.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab007.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab008.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab 005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab_0003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.labno004.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Lab001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
@@ -115,6 +103,19 @@
       <option name="presentableId" value="Default" />
       <updated>1723115016982</updated>
     </task>
+    <task id="LOCAL-00001" summary="all file are add 10 aug 2024">
+      <option name="closed" value="true" />
+      <created>1723483117551</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723483117551</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="all file are add 10 aug 2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="all file are add 10 aug 2024" />
   </component>
 </project>
