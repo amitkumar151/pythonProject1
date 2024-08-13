@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7d557b8-85a9-4bf5-8c8b-8a9743cb7da3" name="Changes" comment="all file are add 10 aug 2024">
-      <change afterPath="$PROJECT_DIR$/src/EX_13082024/Lab0009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EX_13082024/Lab0011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EX_13082024/Lab0012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EX_13082024/Lab0013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EX_13082024/Lab0014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EX_13082024/Lab_0010.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a7d557b8-85a9-4bf5-8c8b-8a9743cb7da3" name="Changes" comment="all file are add 13 aug 2024" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -139,11 +131,20 @@
       <option name="project" value="LOCAL" />
       <updated>1723531472112</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="all file are add 13 aug 2024">
+      <option name="closed" value="true" />
+      <created>1723569699071</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723569699072</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="all file are add 10 aug 2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="all file are add 10 aug 2024" />
+    <MESSAGE value="all file are add 13 aug 2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="all file are add 13 aug 2024" />
   </component>
 </project>
