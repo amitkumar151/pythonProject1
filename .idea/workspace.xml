@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7d557b8-85a9-4bf5-8c8b-8a9743cb7da3" name="Changes" comment="all file are add 10 aug 2024" />
+    <list default="true" id="a7d557b8-85a9-4bf5-8c8b-8a9743cb7da3" name="Changes" comment="all file are add 10 aug 2024">
+      <change afterPath="$PROJECT_DIR$/src/EX_13082024/Lab0009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EX_13082024/Lab0011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EX_13082024/Lab0012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EX_13082024/Lab0013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EX_13082024/Lab0014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EX_13082024/Lab_0010.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,19 +51,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Lab0006.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab007.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab008.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab 005.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab_0003.executor&quot;: &quot;Run&quot;,
-    &quot;Python.labno004.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Lab0006.executor": "Run",
+    "Python.Lab0009.executor": "Run",
+    "Python.Lab001.executor": "Run",
+    "Python.Lab0011.executor": "Run",
+    "Python.Lab0012.executor": "Run",
+    "Python.Lab0013.executor": "Run",
+    "Python.Lab0014.executor": "Run",
+    "Python.Lab007.executor": "Run",
+    "Python.Lab008.executor": "Run",
+    "Python.Lab_0010.executor": "Run",
+    "Python.lab 005.executor": "Run",
+    "Python.lab_0003.executor": "Run",
+    "Python.labno004.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Lab001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
@@ -117,7 +131,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723518204097</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="all file are add 10 aug 2024">
+      <option name="closed" value="true" />
+      <created>1723531472112</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723531472112</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
