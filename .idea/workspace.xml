@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7d557b8-85a9-4bf5-8c8b-8a9743cb7da3" name="Changes" comment="all file are add 13 aug 2024">
+    <list default="true" id="a7d557b8-85a9-4bf5-8c8b-8a9743cb7da3" name="Changes" comment="all file are add 17 aug 2024">
+      <change afterPath="$PROJECT_DIR$/src/Ex_17082024/Lab_0020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_17082024/Lab_0021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task/task3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,9 +60,16 @@
     "Python.Lab007.executor": "Run",
     "Python.Lab008.executor": "Run",
     "Python.Lab_0010.executor": "Run",
+    "Python.Lab_0016.executor": "Run",
+    "Python.Lab_0017.executor": "Run",
+    "Python.Lab_0018.executor": "Run",
+    "Python.Lab_0019.executor": "Run",
+    "Python.Lab_0020.executor": "Run",
+    "Python.Lab_0021.executor": "Run",
     "Python.lab 005.executor": "Run",
     "Python.lab_0003.executor": "Run",
     "Python.labno004.executor": "Run",
+    "Python.task3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -157,12 +167,40 @@
       <option name="project" value="LOCAL" />
       <updated>1723570443917</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="all file are add 13 aug 2024">
+      <option name="closed" value="true" />
+      <created>1723571365882</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1723571365882</updated>
+    </task>
+    <task id="LOCAL-00008" summary="all file are add 17 aug 2024">
+      <option name="closed" value="true" />
+      <created>1724495563977</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1724495563977</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="all file are add 10 aug 2024" />
     <MESSAGE value="all file are add 13 aug 2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="all file are add 13 aug 2024" />
+    <MESSAGE value="all file are add 17 aug 2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="all file are add 17 aug 2024" />
   </component>
 </project>
