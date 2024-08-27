@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7d557b8-85a9-4bf5-8c8b-8a9743cb7da3" name="Changes" comment="all file are add 17 aug 2024">
-      <change afterPath="$PROJECT_DIR$/src/Ex_20082024/Lab_0022.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_20082024/Lab_0023.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_20082024/Lab_0024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_20082024/Lab_0025.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_20082024/Lab_0026.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_20082024/Lab_0027.py" afterDir="false" />
+    <list default="true" id="a7d557b8-85a9-4bf5-8c8b-8a9743cb7da3" name="Changes" comment="all file are add 20 aug 2024">
+      <change afterPath="$PROJECT_DIR$/src/Ex_22082024/Lab_0028.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_22082024/Lab_0029.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_22082024/Lab_0030.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task/task6.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/task/task6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +71,9 @@
     "Python.Lab_0024.executor": "Run",
     "Python.Lab_0026.executor": "Run",
     "Python.Lab_0027.executor": "Run",
+    "Python.Lab_0028.executor": "Run",
+    "Python.Lab_0029.executor": "Run",
+    "Python.Lab_0030.executor": "Run",
     "Python.lab 005.executor": "Run",
     "Python.lab_0003.executor": "Run",
     "Python.labno004.executor": "Run",
@@ -210,7 +209,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724504705468</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="all file are add 20 aug 2024">
+      <option name="closed" value="true" />
+      <created>1724764869013</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1724764869013</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -228,6 +235,7 @@
     <MESSAGE value="all file are add 10 aug 2024" />
     <MESSAGE value="all file are add 13 aug 2024" />
     <MESSAGE value="all file are add 17 aug 2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="all file are add 17 aug 2024" />
+    <MESSAGE value="all file are add 20 aug 2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="all file are add 20 aug 2024" />
   </component>
 </project>
