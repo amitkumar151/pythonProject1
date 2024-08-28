@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7d557b8-85a9-4bf5-8c8b-8a9743cb7da3" name="Changes" comment="all file are add 20 aug 2024">
-      <change afterPath="$PROJECT_DIR$/src/Ex_24082024/Lab_0031.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_24082024/Lab_0032.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_24082024/Lab_0033.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_24082024/Lab_0034.py" afterDir="false" />
+    <list default="true" id="a7d557b8-85a9-4bf5-8c8b-8a9743cb7da3" name="Changes" comment="all file are add 24 aug 2024">
+      <change afterPath="$PROJECT_DIR$/src/Ex_24082024/Lab_0035.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,6 +76,7 @@
     "Python.Lab_0032.executor": "Run",
     "Python.Lab_0033.executor": "Run",
     "Python.Lab_0034.executor": "Run",
+    "Python.Lab_0035.executor": "Run",
     "Python.lab 005.executor": "Run",
     "Python.lab_0003.executor": "Run",
     "Python.labno004.executor": "Run",
@@ -222,7 +220,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724764869013</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="all file are add 24 aug 2024">
+      <option name="closed" value="true" />
+      <created>1724841281631</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1724841281631</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -241,6 +247,7 @@
     <MESSAGE value="all file are add 13 aug 2024" />
     <MESSAGE value="all file are add 17 aug 2024" />
     <MESSAGE value="all file are add 20 aug 2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="all file are add 20 aug 2024" />
+    <MESSAGE value="all file are add 24 aug 2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="all file are add 24 aug 2024" />
   </component>
 </project>
