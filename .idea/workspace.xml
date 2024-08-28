@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7d557b8-85a9-4bf5-8c8b-8a9743cb7da3" name="Changes" comment="all file are add 20 aug 2024">
-      <change afterPath="$PROJECT_DIR$/src/Ex_22082024/Lab_0028.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_22082024/Lab_0029.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_22082024/Lab_0030.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_24082024/Lab_0031.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_24082024/Lab_0032.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_24082024/Lab_0033.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_24082024/Lab_0034.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,6 +75,10 @@
     "Python.Lab_0028.executor": "Run",
     "Python.Lab_0029.executor": "Run",
     "Python.Lab_0030.executor": "Run",
+    "Python.Lab_0031.executor": "Run",
+    "Python.Lab_0032.executor": "Run",
+    "Python.Lab_0033.executor": "Run",
+    "Python.Lab_0034.executor": "Run",
     "Python.lab 005.executor": "Run",
     "Python.lab_0003.executor": "Run",
     "Python.labno004.executor": "Run",
