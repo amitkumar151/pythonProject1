@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7d557b8-85a9-4bf5-8c8b-8a9743cb7da3" name="Changes" comment="all file are add 31 aug 2024 Task on object">
-      <change afterPath="$PROJECT_DIR$/src/ex_31082024/LAB_0038.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Lab_0039.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Lab_0040.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Lab_0041.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Lab_0042.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,6 +81,8 @@
     "Python.Lab_0035.executor": "Run",
     "Python.Lab_0039.executor": "Run",
     "Python.Lab_0040.executor": "Run",
+    "Python.Lab_0041.executor": "Run",
+    "Python.Lab_0042.executor": "Run",
     "Python.Lb_0036.executor": "Run",
     "Python.lab 005.executor": "Run",
     "Python.lab_0003.executor": "Run",
