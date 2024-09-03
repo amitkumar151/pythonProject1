@@ -1,6 +1,4 @@
 
-
-
 class Dog3():
     name = None
     Breed = None
@@ -8,8 +6,12 @@ class Dog3():
 
     def braek(self):
         print("dog is break")
-
     def sleep(self):
         print("dog is sleeping")
-dog4= Dog3()
+#create  object
 
+dog4= Dog3()
+dog4.name="chow"
+print(dog4.name)
+dog4= Dog3()
+dog4.sleep()

@@ -6,23 +6,15 @@ class person():
     Address = None
 
     # Bhihaviour
-
-
-def walk(self):
-    print(" i am walking")
-
-
-def sleep(self):
-    return "sleeping"
-
-
-def eat(self, name):
-    print("eating a mango")
-
-
-def talk(self):
-    print("i can talk")
-    return ("i can talk")
+    def walk(self):
+        print(" i am walking")
+    def sleep(self):
+        return "sleeping"
+    def eat(self, name):
+        print("eating a mango")
+    def talk(self):
+        print("i can talk")
+        return ("i can talk")
 
 
 # create a object
