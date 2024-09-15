@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7d557b8-85a9-4bf5-8c8b-8a9743cb7da3" name="Changes" comment="all file are add 3 aug 2024 Task on object">
-      <change afterPath="$PROJECT_DIR$/src/Sep/Lab_0049.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sep/Lab_0050.py" afterDir="false" />
+    <list default="true" id="a7d557b8-85a9-4bf5-8c8b-8a9743cb7da3" name="Changes" comment="all file are add 5 aug 2024 Task on object">
+      <change afterPath="$PROJECT_DIR$/src/Sep/ex_05092024/Lab_0052.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep/ex_05092024/Lab_0053.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep/ex_05092024/Lab_0054.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep/ex_05092024/Lab_0055.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep/ex_05092024/Lab_0056.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sep/ex_05092024/Lab_0051.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sep/ex_05092024/Lab_0051.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +93,11 @@
     "Python.Lab_0048.executor": "Run",
     "Python.Lab_0049.executor": "Run",
     "Python.Lab_0050.executor": "Run",
+    "Python.Lab_0051.executor": "Run",
+    "Python.Lab_0052.executor": "Run",
+    "Python.Lab_0053.executor": "Run",
+    "Python.Lab_0054.executor": "Run",
+    "Python.Lab_0055.executor": "Run",
     "Python.Lb_0036.executor": "Run",
     "Python.lab 005.executor": "Run",
     "Python.lab_0003.executor": "Run",
@@ -98,9 +107,18 @@
     "Python.task6.executor": "Run",
     "Python.task7.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/PILsystem/PycharmProjects/pythonProject1/src/Sep/ex_05092024"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PILsystem\PycharmProjects\pythonProject1\src\Sep\ex_05092024" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PILsystem\PycharmProjects\pythonProject1\src\Sep\ex_03092024" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Lab001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
@@ -274,7 +292,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726106547502</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="all file are add 5 aug 2024 Task on object">
+      <option name="closed" value="true" />
+      <created>1726378354915</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1726378354915</updated>
+    </task>
+    <task id="LOCAL-00018" summary="all file are add 5 aug 2024 Task on object">
+      <option name="closed" value="true" />
+      <created>1726378591881</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1726378591881</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -296,6 +330,7 @@
     <MESSAGE value="all file are add 24 aug 2024" />
     <MESSAGE value="all file are add 31 aug 2024 Task on object" />
     <MESSAGE value="all file are add 3 aug 2024 Task on object" />
-    <option name="LAST_COMMIT_MESSAGE" value="all file are add 3 aug 2024 Task on object" />
+    <MESSAGE value="all file are add 5 aug 2024 Task on object" />
+    <option name="LAST_COMMIT_MESSAGE" value="all file are add 5 aug 2024 Task on object" />
   </component>
 </project>
