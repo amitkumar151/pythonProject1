@@ -4,64 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7d557b8-85a9-4bf5-8c8b-8a9743cb7da3" name="Changes" comment="all file are add 31 aug 2024 Task on object">
-      <change afterPath="$PROJECT_DIR$/src/Aug/Ex_17082024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/Ex_20082024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/Ex_22082024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/Ex_24082024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex-10082024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_08082024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_31082024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sep/Lab_0045.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sep/Lab_0046.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sep/Lab_0047.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sep/Lab_0048.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sep/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task/__init__.py" afterDir="false" />
+    <list default="true" id="a7d557b8-85a9-4bf5-8c8b-8a9743cb7da3" name="Changes" comment="all file are add 3 aug 2024 Task on object">
+      <change afterPath="$PROJECT_DIR$/src/Sep/Lab_0049.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sep/Lab_0050.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EX_13082024/Lab0009.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/EX_13082024/Lab0009.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EX_13082024/Lab0011.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/EX_13082024/Lab0011.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EX_13082024/Lab0012.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/EX_13082024/Lab0012.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EX_13082024/Lab0013.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/EX_13082024/Lab0013.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EX_13082024/Lab0014.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/EX_13082024/Lab0014.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EX_13082024/Lab0015.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/EX_13082024/Lab0015.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EX_13082024/Lab_0010.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/EX_13082024/Lab_0010.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_17082024/Lab_0016.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/Ex_17082024/Lab_0016.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_17082024/Lab_0017.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/Ex_17082024/Lab_0017.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_17082024/Lab_0018.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/Ex_17082024/Lab_0018.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_17082024/Lab_0019.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/Ex_17082024/Lab_0019.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_17082024/Lab_0020.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/Ex_17082024/Lab_0020.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_17082024/Lab_0021.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/Ex_17082024/Lab_0021.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_20082024/Lab_0022.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/Ex_20082024/Lab_0022.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_20082024/Lab_0023.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/Ex_20082024/Lab_0023.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_20082024/Lab_0024.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/Ex_20082024/Lab_0024.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_20082024/Lab_0025.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/Ex_20082024/Lab_0025.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_20082024/Lab_0026.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/Ex_20082024/Lab_0026.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_20082024/Lab_0027.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/Ex_20082024/Lab_0027.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_22082024/Lab_0028.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/Ex_22082024/Lab_0028.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_22082024/Lab_0029.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/Ex_22082024/Lab_0029.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_22082024/Lab_0030.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/Ex_22082024/Lab_0030.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_22082024/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/EX_13082024/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_24082024/Lab_0031.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/Ex_24082024/Lab_0031.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_24082024/Lab_0032.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/Ex_24082024/Lab_0032.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_24082024/Lab_0033.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/Ex_24082024/Lab_0033.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_24082024/Lab_0034.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/Ex_24082024/Lab_0034.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_24082024/Lab_0035.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/Ex_24082024/Lab_0035.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_24082024/Lb_0036.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/Ex_24082024/Lb_0036.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex-10082024/Lab0006.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex-10082024/Lab0006.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex-10082024/Lab007.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex-10082024/Lab007.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex-10082024/Lab008.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex-10082024/Lab008.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex-10082024/lab 005.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex-10082024/lab 005.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex-10082024/lab_0003.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex-10082024/lab_0003.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex-10082024/labno004.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex-10082024/labno004.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_08082024/Lab001.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_08082024/Lab001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_31082024/LAB_0038.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_31082024/LAB_0038.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_31082024/Lab_0039.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_31082024/Lab_0039.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_31082024/Lab_0040.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_31082024/Lab_0040.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_31082024/Lab_0041.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_31082024/Lab_0041.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_31082024/Lab_0042.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_31082024/Lab_0042.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,58 +47,60 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.LAB_0038.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0006.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0009.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0011.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0012.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0013.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0014.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab007.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab008.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0010.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0016.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0017.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0018.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0019.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0020.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0021.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0022.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0023.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0024.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0026.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0027.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0028.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0029.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0030.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0031.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0032.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0033.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0034.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0035.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0039.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0040.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0041.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0042.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0045.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0046.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0047.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab_0048.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lb_0036.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab 005.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab_0003.executor&quot;: &quot;Run&quot;,
-    &quot;Python.labno004.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task7.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.LAB_0038.executor": "Run",
+    "Python.Lab0006.executor": "Run",
+    "Python.Lab0009.executor": "Run",
+    "Python.Lab001.executor": "Run",
+    "Python.Lab0011.executor": "Run",
+    "Python.Lab0012.executor": "Run",
+    "Python.Lab0013.executor": "Run",
+    "Python.Lab0014.executor": "Run",
+    "Python.Lab007.executor": "Run",
+    "Python.Lab008.executor": "Run",
+    "Python.Lab_0010.executor": "Run",
+    "Python.Lab_0016.executor": "Run",
+    "Python.Lab_0017.executor": "Run",
+    "Python.Lab_0018.executor": "Run",
+    "Python.Lab_0019.executor": "Run",
+    "Python.Lab_0020.executor": "Run",
+    "Python.Lab_0021.executor": "Run",
+    "Python.Lab_0022.executor": "Run",
+    "Python.Lab_0023.executor": "Run",
+    "Python.Lab_0024.executor": "Run",
+    "Python.Lab_0026.executor": "Run",
+    "Python.Lab_0027.executor": "Run",
+    "Python.Lab_0028.executor": "Run",
+    "Python.Lab_0029.executor": "Run",
+    "Python.Lab_0030.executor": "Run",
+    "Python.Lab_0031.executor": "Run",
+    "Python.Lab_0032.executor": "Run",
+    "Python.Lab_0033.executor": "Run",
+    "Python.Lab_0034.executor": "Run",
+    "Python.Lab_0035.executor": "Run",
+    "Python.Lab_0039.executor": "Run",
+    "Python.Lab_0040.executor": "Run",
+    "Python.Lab_0041.executor": "Run",
+    "Python.Lab_0042.executor": "Run",
+    "Python.Lab_0045.executor": "Run",
+    "Python.Lab_0046.executor": "Run",
+    "Python.Lab_0047.executor": "Run",
+    "Python.Lab_0048.executor": "Run",
+    "Python.Lab_0049.executor": "Run",
+    "Python.Lab_0050.executor": "Run",
+    "Python.Lb_0036.executor": "Run",
+    "Python.lab 005.executor": "Run",
+    "Python.lab_0003.executor": "Run",
+    "Python.labno004.executor": "Run",
+    "Python.task3.executor": "Run",
+    "Python.task5.executor": "Run",
+    "Python.task6.executor": "Run",
+    "Python.task7.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Lab001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
@@ -318,7 +266,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725354442310</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="all file are add 3 aug 2024 Task on object">
+      <option name="closed" value="true" />
+      <created>1726106547502</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1726106547502</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -339,6 +295,7 @@
     <MESSAGE value="all file are add 20 aug 2024" />
     <MESSAGE value="all file are add 24 aug 2024" />
     <MESSAGE value="all file are add 31 aug 2024 Task on object" />
-    <option name="LAST_COMMIT_MESSAGE" value="all file are add 31 aug 2024 Task on object" />
+    <MESSAGE value="all file are add 3 aug 2024 Task on object" />
+    <option name="LAST_COMMIT_MESSAGE" value="all file are add 3 aug 2024 Task on object" />
   </component>
 </project>
