@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7d557b8-85a9-4bf5-8c8b-8a9743cb7da3" name="Changes" comment="all file are add 7 aug 2024 Task on object">
-      <change afterPath="$PROJECT_DIR$/src/Oct/Lab_00150.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/test_Lab150.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/test_lab151.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sep/ex_07092024/Lab_0054.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sep/ex_07092024/__init__.py" afterDir="false" />
+    <list default="true" id="a7d557b8-85a9-4bf5-8c8b-8a9743cb7da3" name="Changes" comment="all file are add 8 aug 2024 Task on object">
+      <change afterPath="$PROJECT_DIR$/src/Oct/test_lab152.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +50,7 @@
   &quot;keyToString&quot;: {
     &quot;Python tests.Python tests for test_lab151.test_verify_sum.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests in test_Lab150.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab151.py.executor&quot;: &quot;Run&quot;,
     &quot;Python.LAB_0038.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab0006.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lab0009.executor&quot;: &quot;Run&quot;,
@@ -124,7 +120,7 @@
       <recent name="C:\Users\PILsystem\PycharmProjects\pythonProject1\src\Sep\ex_03092024" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Lab001">
     <configuration name="Lab001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
@@ -337,7 +333,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726401913369</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="all file are add 8 aug 2024 Task on object">
+      <option name="closed" value="true" />
+      <created>1728540814652</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1728540814652</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -361,6 +365,7 @@
     <MESSAGE value="all file are add 3 aug 2024 Task on object" />
     <MESSAGE value="all file are add 5 aug 2024 Task on object" />
     <MESSAGE value="all file are add 7 aug 2024 Task on object" />
-    <option name="LAST_COMMIT_MESSAGE" value="all file are add 7 aug 2024 Task on object" />
+    <MESSAGE value="all file are add 8 aug 2024 Task on object" />
+    <option name="LAST_COMMIT_MESSAGE" value="all file are add 8 aug 2024 Task on object" />
   </component>
 </project>
