@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7d557b8-85a9-4bf5-8c8b-8a9743cb7da3" name="Changes" comment="all file are add 8 aug 2024 Task on object">
-      <change afterPath="$PROJECT_DIR$/allure_result/9dbbcb9b-cce7-4ed1-a453-8f1435d541ce-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/test_lab153.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/contest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/test_lab154.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/test_lab155.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/test_lab156.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/test_lab157.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/test_lab158.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/test_lab159.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +58,8 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python tests.Python tests for test_lab151.test_verify_sum.executor": "Run",
+    "Python tests.Python tests for test_lab156.test_consume.executor": "Run",
+    "Python tests.Python tests for test_lab158.test_update_req.executor": "Run",
     "Python tests.Python tests in test_Lab150.py.executor": "Run",
     "Python tests.Python tests in test_lab151.py.executor": "Run",
     "Python.LAB_0038.executor": "Run",
@@ -110,7 +119,8 @@
     "Python.task7.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/PILsystem/PycharmProjects/pythonProject1/src/Sep/ex_05092024"
+    "last_opened_file_path": "C:/Users/PILsystem/PycharmProjects/pythonProject1/src/Sep/ex_05092024",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -122,7 +132,7 @@
       <recent name="C:\Users\PILsystem\PycharmProjects\pythonProject1\src\Sep\ex_03092024" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab001">
+  <component name="RunManager" selected="Python tests.Python tests for test_lab158.test_update_req">
     <configuration name="Lab001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
@@ -160,10 +170,42 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_lab156.test_consume" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Oct" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_lab156.test_consume&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_lab158.test_update_req" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Oct" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_lab158.test_update_req&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_lab151.test_verify_sum" />
+        <item itemvalue="Python tests.Python tests for test_lab158.test_update_req" />
+        <item itemvalue="Python tests.Python tests for test_lab156.test_consume" />
         <item itemvalue="Python.Lab001" />
+        <item itemvalue="Python tests.Python tests for test_lab151.test_verify_sum" />
       </list>
     </recent_temporary>
   </component>
@@ -343,7 +385,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728540814652</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="all file are add 8 aug 2024 Task on object">
+      <option name="closed" value="true" />
+      <created>1728723050059</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1728723050059</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
